@@ -13,3 +13,10 @@
 
     HTML5, CSS3
     Normalize.css, jQuery, Modernizr
+    Google Web Fonts
+
+    Perfect Full Page Background Image
+    	http://css-tricks.com/perfect-full-page-background-image/
+	
+	How to create a simple javascript countdown timer
+		https://mindgrader.com/tutorials/1-how-to-create-a-simple-javascript-countdown-timer
